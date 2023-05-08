@@ -1,0 +1,30 @@
+.left-column {
+    width: 50%;
+    height: 1600px;
+    background: #ddddddb8;
+    float: left;
+    font-family:'Courier New', Courier, monospace ;
+ 
+}
+.right-column {
+    width: 50%;
+    height: 1600px;
+    background: #2caa58;
+    float: right;
+    font-family:'Courier New', Courier, monospace ;
+}
+#bank {
+    display: block;
+    text-align: center; 
+    padding-top: 10px;
+    font-size: large;
+    text-align: center;
+    background-color: #858f8890;
+}
+#tctt {
+    display: block;
+    padding-top: 10px;
+    font-size: large;
+    text-align: center; 
+    background-color: #136d32;
+}
